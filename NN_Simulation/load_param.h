@@ -1,0 +1,1 @@
+int load_param(int,int,double **,double *,char *,char *);
